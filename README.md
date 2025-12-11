@@ -1,11 +1,11 @@
-#Python Projects Collection
+# Python Projects Collection
 This repository contains three comprehensive Python applications for various application domains: medical system, internet cafe, and scientific tool for empirical function fitting.
 
-##📋 Project 1: Medical Information System
-###Description
+## 📋 Project 1: Medical Information System
+### Description
 Medical organization management system with Tkinter GUI and PostgreSQL database.
 
-###Functionality
+### Functionality
 Patient Management: CRUD operations for patient data
 
 Doctor Management: Registration and maintenance of doctor information
@@ -18,7 +18,7 @@ Reports: PDF report generation with Russian language support
 
 Validation: Input data validation
 
-###Technologies
+### Technologies
 Python 3.8+
 
 Tkinter for GUI
@@ -33,11 +33,11 @@ Configure environment variables or modify connection parameters in database.py
 
 Run the application: python app.py
 
-##📋 Project 2: Internet Cafe Management System
-###Description
+## 📋 Project 2: Internet Cafe Management System
+### Description
 Accounting and management system for internet cafes with session tracking, tariff management, and financial reporting.
 
-###Functionality
+### Functionality
 Session Management: Tracking computer usage time
 
 Tariff System: Flexible pricing based on time of day
@@ -48,7 +48,7 @@ Analytics: Usage statistics and efficiency analysis
 
 IP Address Validation: Network data validation
 
-###Technologies
+### Technologies
 Python 3.8+
 
 Tkinter for GUI
@@ -57,11 +57,11 @@ PostgreSQL 12+
 
 Matplotlib for data visualization
 
-##📋 Project 3: Empirical Functions Fitting
-###Description
+## 📋 Project 3: Empirical Functions Fitting
+### Description
 Scientific application for fitting optimal mathematical models to experimental data using the least squares method.
 
-###Functionality
+### Functionality
 Fitting 5 function types: Linear, quadratic, power, exponential, logarithmic
 
 Model Comparison: Automatic quality comparison of fits
@@ -95,7 +95,7 @@ SciPy for optimization
 Matplotlib for graphs
 
 
-##🔧 Requirements
+## 🔧 Requirements
 Python 3.8 or higher
 
 PostgreSQL 12+ (for first two projects)
@@ -104,7 +104,7 @@ pip for dependency installation
 
 Internet access for package installation
 
-📝 Dependencies
+## 📝 Dependencies
 Main dependencies:
 
 psycopg2-binary - PostgreSQL interaction
