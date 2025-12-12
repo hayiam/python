@@ -72,7 +72,7 @@ Interactive Input: Tabular data editor
 
 Quality Metrics: R², RMSE, MAE and other indicators
 
-Supported Models
+###Supported Models
 Linear: y = ax + b
 
 Quadratic: y = ax² + bx + c
@@ -83,7 +83,7 @@ Exponential: y = aeᵇˣ
 
 Logarithmic: y = a + b·ln(x)
 
-Technologies
+###Technologies
 Python 3.8+
 
 Tkinter for GUI
